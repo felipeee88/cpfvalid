@@ -1,5 +1,3 @@
-# cpfvalid
-
 public static class CPF
     {
         public static bool Validar(string cpf)
